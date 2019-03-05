@@ -16,3 +16,9 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
 <strong><u><a href="https://algospot.com/" target="_blank" title="알고스팟">알고스팟</a></u>(알고스팟)</strong>
 <strong><u><a href="https://www.swexpertacademy.com/main/userpage/code/userProblemBoxDetail.do?probBoxId=AV5Po0AqAPwDFAUq&leftPage=1&curPage=userpage&userId=SWEAC&&&&" target="_blank" title="samsung">Samsung</a></u>(삼성)</strong>
 <strong><u><a href="https://programmers.co.kr/learn/challenges" target="_blank" title="프로그래머스">프로그래머스</a></u>(프로그래머스)</strong> 에서 충분히 학습할 수 있다.
+
+
+
+
+알고리즘 문제를 풀기전 자료구조가 부족하다고 생각들면 
+<strong><u><a href="https://github.com/kimtaehyeong/Algorithm/tree/master/basic" target="_blank" title="data_structure">클릭</a></u></strong>
