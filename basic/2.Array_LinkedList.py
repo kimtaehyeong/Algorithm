@@ -26,7 +26,9 @@ for i in voca:
 for i in count_list:
     print(i, end=' ')
     
-    
+# 알고리즘 문제를 풀다보면 자주해야될꺼같은 방법??
+list_1D = [[0 for i in range(10)]] # 0으로 차있는 크기가 10인 1차원 리스트
+list_2D = [[0 for rows in range(3)] for cols in range(3)] # 0으로 초기화된 (3*3) 2차원 리스트
 """
 연결 리스트(Linked Lists)
 
