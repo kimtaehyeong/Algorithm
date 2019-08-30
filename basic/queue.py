@@ -40,5 +40,5 @@ queue.enqueue(60)
 print(queue.dequeue()) # 첫번째 원소인 10을 꺼내서 [60,40,20] 이 된다.
 print(queue.state()) # [60,40,20]
 print('스택 비어있는지 확인 : ', queue.isEmpty())
-print('마지막 원소 확인 : ', queue.peek()) # 40
+print('마지막 원소 확인 : ', queue.peek()) # 20
             
