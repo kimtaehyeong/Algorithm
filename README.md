@@ -22,6 +22,8 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
 
 알고리즘 문제를 풀기전 자료구조가 부족하다고 생각들면 
 <strong><u><a href="https://github.com/kimtaehyeong/Algorithm/tree/master/basic" target="_blank" title="data_structure">클릭</a></u></strong>
+  
+파이썬 문법이 부족하다고 생각들면 <strong><u><a href="https://github.com/kimtaehyeong/Python" target="_blank" title="basic_python">클릭</a></u></strong>
 
 * [백준](https://www.acmicpc.net)
     * DFS와 BFS [문제](https://www.acmicpc.net/problem/1260) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_1260.py)
