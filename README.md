@@ -22,3 +22,13 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
 
 알고리즘 문제를 풀기전 자료구조가 부족하다고 생각들면 
 <strong><u><a href="https://github.com/kimtaehyeong/Algorithm/tree/master/basic" target="_blank" title="data_structure">클릭</a></u></strong>
+
+* [백준](https://www.acmicpc.net)
+    * DFS와 BFS [문제](https://www.acmicpc.net/problem/1260) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_1260.py)
+    * 버블 소트 [문제](https://www.acmicpc.net/problem/1377) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_1377.ipynb)
+    * 시험감독 [문제](https://www.acmicpc.net/problem/13458) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_13458.py)
+    * 설탕배달 [문제](https://www.acmicpc.net/problem/2839) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_2839.py)
+    * 미로탐색 [문제](https://www.acmicpc.net/problem/2178) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_2178.py)
+* [프로그래머스](https://programmers.co.kr/)
+    * H-Index [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/h_index.ipynb)
+    * 단어 변환 [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/character_transformation.py)
