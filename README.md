@@ -34,3 +34,5 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
 * [프로그래머스](https://programmers.co.kr/)
     * H-Index [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/h_index.ipynb)
     * 단어 변환 [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/character_transformation.py)
+* [삼성SW Academy](https://swexpertacademy.com)
+    * 최소합 [문제](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/samsung_%EC%B5%9C%EC%86%8C%ED%95%A9.py)
