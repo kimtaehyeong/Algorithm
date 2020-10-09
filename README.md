@@ -9,7 +9,8 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
 
 <strong><u><a href="https://programmers.co.kr/learn/courses/57#review" target="_blank" title="프로그래머스">프로그래머스</a></u>(programmers)</strong>
 <strong><u><a href="https://blog.encrypted.gg/723?category=773649" target="_blank" title="barkingdog">BaaaaaaaarkingDog</a></u>(Actual Algorithm)</strong>
-이 두곳을 참고 하였으며,
+<strong><u><a href="https://www.youtube.com/watch?v=m-9pAwq1o3w" target="_blank" title="이코테">이것이 취업을 위한 코딩 테스트다 with 파이썬</a></u>(이코테)</strong>
+이 세곳을 참고 하였으며,
 
 여러가지 알고리즘을 풀 수 있는 사이트는
 <strong><u><a href="https://www.acmicpc.net/" target="_blank" title="백준">백준</a></u>(백준)</strong>
@@ -42,3 +43,6 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
     * 정수 삼각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/43105) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/integer_triangle.py)
 * [삼성SW Academy](https://swexpertacademy.com)
     * 최소합 [문제](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/samsung_%EC%B5%9C%EC%86%8C%ED%95%A9.py)
+    
+* [ETC]
+    * 음료수 얼려 먹기 [문제](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/ice_eat.py) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/ice_eat.py)
