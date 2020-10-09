@@ -46,3 +46,4 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
     
 * [ETC]
     * 음료수 얼려 먹기 [문제](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/ice_eat.py) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/ice_eat.py)
+    * 미로 탈출 [문제](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/escape_maze.py) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/escape_maze.py)
