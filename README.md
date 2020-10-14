@@ -37,6 +37,7 @@ Python 3.X버전을 이용하며, 여러가지 필요한 요소들을 업데이�
     * 블랙잭 [문제](https://www.acmicpc.net/problem/2798) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_2798.py)
     * 수 정렬하기 [문제](https://www.acmicpc.net/problem/2750) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_2750.py)
     * 치킨배달 [문제](https://www.acmicpc.net/problem/15686) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_15686.py)
+    * 뱀 [문제](https://www.acmicpc.net/problem/3190) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/beakjoon_3190.ipynb)
 * [프로그래머스](https://programmers.co.kr/)
     * H-Index [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/h_index.ipynb)
     * 단어 변환 [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) / [풀이](https://github.com/kimtaehyeong/Algorithm/blob/master/solution/character_transformation.py)
